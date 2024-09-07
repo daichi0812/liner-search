@@ -1,5 +1,5 @@
 /* n個の数値の中に0が含まれるかどうかを判定する */
-// 線形探索の練習
+/* 線形探索の練習 */
 
 #include <iostream>
 #include <vector>
